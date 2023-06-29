@@ -1,0 +1,1 @@
+When Web scraping.py is executed a lots of images will be donwloaded to a folder and an Excel and Word file will be created. Excel file will contain the information of the members of parliament along with their images and the Document file will contain the tabular information such as Number of member in each province, Party wise member count etc.
